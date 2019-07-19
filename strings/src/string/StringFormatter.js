@@ -1,5 +1,4 @@
 /* eslint-disable no-loop-func */
-
 const format = (text, limit, justify) => {
   const originalLines = text.split(/\n|\r/);
   const linesFormmatted = [];
