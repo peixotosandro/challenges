@@ -27,7 +27,7 @@ ou
 $ npm test
 ```
 
-## Para executar a Aplicação##
+## Para executar a Aplicação ##
 Execute o comando no diretório raiz da aplicação para executar:
 
 ```shell
