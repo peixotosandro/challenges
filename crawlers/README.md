@@ -55,4 +55,4 @@ $ npm startBot
 
 Com a aplicação em execução, acesse o telegram e procure o Bot com @GetRedditPosts ou pelo link t.me/RedditPostsBot
 
-No Bot, através do comando /nadaprafazer digite os subreddit a serem pesquisados, por exemplo: /nadaprafazer cats;askreddit;worldnews
+No Bot, através do comando /nadaprafazer digite os subreddits a serem pesquisados, por exemplo: /nadaprafazer cats;askreddit;worldnews
