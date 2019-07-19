@@ -39,4 +39,4 @@ ou
 $ npm start
 ```
 
-Serão solicitados o texto, o limite de comprimento da linha e a opção para justificar. Caso o usuário não preencha as informação, serão atribuidas os valores padrões.
+Serão solicitados o texto, o limite de comprimento da linha e a opção para justificar. Caso o usuário não preencha as informações, serão atribuidas os valores padrões.
