@@ -41,7 +41,7 @@ $ npm start
 
 Será solicitado para entrar com os subreddits separados por ";", por exemplo: cats;askreddit;worldnews.
 
-## Para executar o Bot para responder no Telegram ##
+## Executar o Bot para responder no Telegram ##
 Execute o comando no diretório raiz da aplicação para executar o Bot:
 
 ```shell
