@@ -5,6 +5,7 @@ const format = (text, limit, justify) => {
 
   originalLines.forEach(originalLine => {
     if (originalLine === '') {
+      linesFormmatted.push('');
       return;
     }
 
@@ -55,7 +56,6 @@ const format = (text, limit, justify) => {
         linesFormmatted.push(line);
       }
     });
-    linesFormmatted.push('');
   });
   return linesFormmatted;
 };
