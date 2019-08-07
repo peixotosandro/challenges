@@ -3,7 +3,7 @@ process.env.NTBA_FIX_319 = 1;
 const TelegramBot = require('node-telegram-bot-api');
 const RedditCrawler = require('../crawlers/RedditCrawler');
 
-const TOKEN = '964726129:AAHfkGG-GJLvxpe5qcP4v0WS1Rx_fJIMV2E';
+const TOKEN = '<token>';
 
 const bot = new TelegramBot(TOKEN, { polling: true });
 
